@@ -1,5 +1,5 @@
-[branch "alpha"]
-    merge = refs/heads/alpha
+[branch "gvim74.win32"]
+    merge = refs/heads/gvim74.win32
     remote = origin
 [branch "base"]
     merge = refs/heads/base
